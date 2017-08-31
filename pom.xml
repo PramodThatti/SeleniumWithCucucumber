@@ -24,6 +24,7 @@
             </plugin>
             <plugin>
                 <groupId>net.masterthought</groupId>
+                 <artifactId>maven-compiler-plugin</artifactId>
                 <artifactId>maven-cucumber-reporting</artifactId>
                 <version>3.0.0</version>
                 <executions>
